@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 temp/
-*.png
+tmp/
+
